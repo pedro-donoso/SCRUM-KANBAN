@@ -19,8 +19,8 @@
 - Podemos elegir algún esquema de prioridades
 
 ## Definiciones
-Backlog: Acumulación de algo, especialmente trabajo incompleto o cosas de las que debemos ocuparnos.
+```Backlog: Acumulación de algo, especialmente trabajo incompleto o cosas de las que debemos ocuparnos.```
 
-Sprint: Es el nombre que va a recibir cada uno de los ciclos o iteraciones que vamos a tener dentro de un proyecto.
+```Sprint: Es el nombre que va a recibir cada uno de los ciclos o iteraciones que vamos a tener dentro de un proyecto.```
 
-WIP: Trabajo en proceso, es la cantidad de tareas en las que un equipo está trabajando actualmente. Delimita la capacidad de los flujos de trabajo de los equipos en cualquier momento.
+```WIP: Trabajo en proceso, es la cantidad de tareas en las que un equipo está trabajando actualmente. Delimita la capacidad de los flujos de trabajo de los equipos en cualquier momento.```
