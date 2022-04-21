@@ -24,3 +24,4 @@
 ```Sprint: Es el nombre que va a recibir cada uno de los ciclos o iteraciones que vamos a tener dentro de un proyecto.```
 
 ```WIP: Trabajo en proceso, es la cantidad de tareas en las que un equipo está trabajando actualmente. Delimita la capacidad de los flujos de trabajo de los equipos en cualquier momento.```
+
